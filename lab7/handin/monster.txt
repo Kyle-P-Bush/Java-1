@@ -1,0 +1,3 @@
+[goblin] HP:60, AP:8
+[orc] HP:100, AP:12
+[troll] HP:150, AP:15
